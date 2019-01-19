@@ -1,4 +1,4 @@
-# 2018fall---BLE-mouse-with-handwriting-recognition
+# 2018fall---BLE-mouse-with-handwriting-recognition(正式報告請參閱pdf檔)
 # 一.	動機
    熟悉較為底層的系統程式及驅動程式以完成BLE傳輸、三軸加速度計讀值、GPIO操控、虛擬滑鼠及文字輸入等功能，搭配openCV之套件抓取手寫軌跡並辨識為何字母。
    此作品盡可能使用便宜的器材來體現工業生產上的成本考量，大致上需要CC26x2、ADXL345、raspberry pi，其中運行於raspberry pi的程式能夠移植至其他裝有linux作業系統的機器。
