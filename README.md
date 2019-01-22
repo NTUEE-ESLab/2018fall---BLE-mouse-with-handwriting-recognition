@@ -51,3 +51,9 @@ sudo python3 object_movement.py
 # 六. Reference
 1.	https://www.pyimagesearch.com
 2.  https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract-4.00
+
+# 七. source code at github
+https://github.com/NTUEE-ESLab/2018fall_BLE-mouse-with-handwriting-recognition
+
+# 八. Demo影片
+https://www.youtube.com/watch?v=Nf9jja7lJCc
